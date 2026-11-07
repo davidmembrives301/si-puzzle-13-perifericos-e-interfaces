@@ -6,12 +6,12 @@ Apoyo visual: el propio README proyectado (las 3 imágenes de `img/`) y, si se p
 |---|---|---|---|---|
 | 0:00-2:00 | David | 1. Qué es | Definición de periférico. Entrada / salida / mixto con un ejemplo de cada uno que tengamos en la mano. Interfaz = conector + cable + protocolo. Frase gancho: "USB-C es una forma, no una velocidad". | Pendrive, ratón, cable USB-C |
 | 2:00-4:00 | David | 2. Cómo funciona | Recorrer el esquema de izquierda a derecha: periférico → cable (serie, pares diferenciales) → controlador → PCIe → RAM/driver. Plug & Play, USB PD y Alt Mode. | `img/esquema.png` |
-| 4:00-6:00 | Pablo | 3. Características | Gbps vs GB/s (dividir entre 8). Vatios. Resolución, Hz, ms, cd/m², contraste. Cómo se mide (CrystalDiskMark, tester USB-C, TestUFO). | Tabla del apartado 3 |
-| 6:00-8:30 | Pablo | 4. Estándares | Gráfica de barras: USB de 0,48 a 80 Gbps con los nombres nuevos, Thunderbolt 5 (80/120 Gbps, 240 W), HDMI 2.2 (96 Gbps, Ultra96), DisplayPort 2.1 (80 Gbps, DP80, MST). Tipos de panel. | `img/velocidades.png`, cables HDMI y DP |
-| 8:30-10:30 | Pablo | 5. Modelo real | Dell U2724DE: leer 4-5 datos de la ficha y decir si son buenos. Idea clave: un solo cable Thunderbolt = imagen + USB + red + 90 W. Para quién sí y para quién no. | `img/modelo.png` |
+| 4:00-6:00 | David | 3. Características | Gbps vs GB/s (dividir entre 8). Vatios. Resolución, Hz, ms, cd/m², contraste. Cómo se mide (CrystalDiskMark, tester USB-C, TestUFO). | Tabla del apartado 3 |
+| 6:00-8:30 | David | 4. Estándares | Gráfica de barras: USB de 0,48 a 80 Gbps con los nombres nuevos, Thunderbolt 5 (80/120 Gbps, 240 W), HDMI 2.2 (96 Gbps, Ultra96), DisplayPort 2.1 (80 Gbps, DP80, MST). Tipos de panel. | `img/velocidades.png`, cables HDMI y DP |
+| 8:30-10:30 | David | 5. Modelo real | Dell U2724DE: leer 4-5 datos de la ficha y decir si son buenos. Idea clave: un solo cable Thunderbolt = imagen + USB + red + 90 W. Para quién sí y para quién no. | `img/modelo.png` |
 | 10:30-12:30 | David | 6. Averías y errores | Demostración: cable de solo carga que no da imagen. Monitor a 60 Hz. Cargador lento. Eslabón más lento. | Cable de solo carga |
 | 12:30-13:00 | David | Cierre | Tres ideas para recordar: USB-C ≠ velocidad, manda el eslabón más lento, mirar Gbps y W en el cable. | — |
-| 13:00-15:00 | Todos | Preguntas | Cualquiera debe poder responder sobre cualquier apartado. | — |
+| 13:00-15:00 | David | Preguntas | Responder sobre cualquier apartado. | — |
 
 ## Preguntas que puede hacer el profesor (y respuesta corta)
 
