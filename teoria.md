@@ -41,7 +41,7 @@
 - **Regla del más lento:** la velocidad real es la del elemento más lento (puerto, cable o aparato).
 - Averías típicas: cable USB-C que solo carga y no da imagen, monitor a 60 Hz por usar un cable antiguo, cargador con pocos vatios que carga lento.
 
-## Preguntas tipo test (8)
+## Preguntas tipo test
 
 1. ¿Cuál de estos es un periférico de entrada?
    - a) Monitor
