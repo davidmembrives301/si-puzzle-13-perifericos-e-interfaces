@@ -1,6 +1,6 @@
 # Puzzle UT2 · Pieza 13: Periféricos e interfaces externas
 
-**Grupo:** David Membrives Muñoz (@davidmembrives301) · Pablo Huertas Roldán (@pablohuertasroldan)
+**Grupo:** David Membrives Muñoz (@davidmembrives301) 
 
 ## 1. Qué es y qué función cumple en el sistema
 
