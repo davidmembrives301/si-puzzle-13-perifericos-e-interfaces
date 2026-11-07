@@ -1,8 +1,6 @@
 # Teoría · Pieza 13: Periféricos e interfaces externas
 
-**Grupo:** David Membrives Muñoz · Pablo Huertas Roldán
-
-> Máximo 1 folio por las dos caras. Es lo que estudiará toda la clase para el test: claro, exacto y sin relleno.
+**Grupo:** David Membrives Muñoz 
 
 ## Conceptos clave
 
