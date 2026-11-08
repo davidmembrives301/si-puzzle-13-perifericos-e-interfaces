@@ -34,9 +34,9 @@ Hay 3 tipos, según hacia dónde van los datos:
 | HDMI 2.2 | 96 Gbps | Teles y monitores nuevos |
 | DisplayPort 2.1 | 80 Gbps | Monitores de PC / gaming |
 
-## Datos que hay que saberse
+## Datos importantes
 
-- ⚠️ **USB-C ≠ velocidad** → es la forma del conector (¡cae seguro!).
+- **USB-C ≠ velocidad** → es la forma del conector (¡cae seguro!).
 - Nombres nuevos de USB → **USB 5Gbps, 10Gbps, 20Gbps, 40Gbps y 80Gbps** (dicen la velocidad directamente).
 - Carga máx. por USB-C → **240 W**.
 - TB5 = doble que TB4 → **80 vs 40 Gbps**.
